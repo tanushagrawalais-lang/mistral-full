@@ -1,0 +1,8 @@
+{
+  "name": "SpiroVoice Specialist Console",
+  "description": "Clinical respiratory triage command center with acoustic biomarker analysis, 30 FPS resonance telemetry, and longitudinal PHC patient logbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
